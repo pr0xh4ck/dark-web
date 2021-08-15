@@ -1,7 +1,8 @@
-> Please use this content safely | Educational purpose only
-
-> Before browse these website, Please use Tor browser & aslo use Tails OS 
-
+> Caution
+```
+Please use this content safely | Educational purpose only
+Before browsing these websites, Please use the Tor browser & also use Tails OS.
+```
 # Content 
  
   - [Commercial Site](#Commercial-Site)
