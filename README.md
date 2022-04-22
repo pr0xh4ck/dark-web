@@ -7,7 +7,7 @@
 
 ```pr0xh4ck © 2022```
 
-```Some websites might not work. So, I am trying to mitigate it``` I 
+```Some websites might not work. So, I am trying to mitigate it``` 
 
 > Caution
 ```
